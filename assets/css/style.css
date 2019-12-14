@@ -127,6 +127,31 @@ p {
 
 /* portfolio page css starts here */
 
+.portfolio-content {
+  margin: 30px;
+  background-color: #ffffff;
+  border-color: 20px solid #ddd;
+  border-radius: 15px;
+  left: 18%;
+  width: 960px;
+  height: 545px;
+}
+
+.portfolio {
+  margin: 20px;
+  color: #4aaaa5;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 22px;
+  font-weight: bold;
+  border-bottom: 1.5px solid #777777;
+  padding: 20px;
+}
+
+.portfolio-pic {
+  height: 100px;
+  width: 100px;
+}
+
 
 
 

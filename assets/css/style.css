@@ -107,15 +107,31 @@ footer{
   margin: 100px;
 }
 
-/* index page css */
-#bio-pic{
+/* index page css starts here*/
+.bio-pic {
   float: left;
-  width: 210px;
-  height: 280px;
+  width: 200px;
+  height: 200px;
   margin: 10px 20px;
 }
 
-/* form css for contact page form */
+p {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  line-height: 2;
+  margin: 10px;
+  color: #777777;
+}
+
+
+
+/* portfolio page css starts here */
+
+
+
+
+
+/* contact page css starts here, form */
 form {
     /* Center the form on the page */
     margin: 0 auto;
@@ -131,7 +147,7 @@ form {
   }
   
   label {
-    /* Uniform size & alignment */
+    /* size & alignment */
     display: inline-block;
     width: 90px;
     text-align: right;
